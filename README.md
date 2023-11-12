@@ -1,6 +1,6 @@
 # Cài đặt môi trường
-Nodejs là 1 nền tảng(platform) để chạy code js phía server side
-express là 1 framework dùng để phát triển back-end website
+#Nodejs là 1 nền tảng(platform) để chạy code js phía server side
+#Express là 1 framework dùng để phát triển back-end website
 1.  **Cài đặt môi trường:.**
     dependencies:
    ```sh
